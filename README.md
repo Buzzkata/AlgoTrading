@@ -1,2 +1,2 @@
-# GoldenCrossAlgoTrading
-A basic implementation of the golden cross and death cross trading strategy using Python. The project uses the following Python libraries: backtrader and pandas. The algorithm is run agaisnt the SPY (S&P 500 ETF) between the years of 2000 and 2020.
+# AlgorithmTradingStrategies
+Implementations of some of the popular trading strategies including the golden cross and death cross and fear and greed index using Python. The project uses the following Python libraries: backtrader and pandas. 
